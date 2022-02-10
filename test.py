@@ -1,4 +1,3 @@
-__author__ = 'Harsh'
 import gspread                              #google spreadsheet api
 from oauth2client.service_account import ServiceAccountCredentials    #authentiction
 
